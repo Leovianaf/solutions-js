@@ -1,0 +1,27 @@
+Podemos seguir o seguinte passo a passo:
+
+1 - Na primeira visita, ligue o primeiro interruptor (A) e mantenha-o ligado por algum tempo.
+
+2 - Após isso, desligue o interruptor A e ligue o segundo interruptor (B).
+
+3 - Visite uma das salas das lâmpadas.
+
+4 - Na primeira visita você terá as seguintes situações:
+    - Se a lâmpada estiver acesa, isso significa que o interruptor B controla essa lâmpada.
+
+    - Se a lâmpada estiver apagada e quente, isso significa que o interruptor A controla essa lâmpada.
+
+    - Se a lâmpada estiver apagada e fria, isso significa que o interruptor C controla essa lâmpada.
+
+5 - Na segunda visita, ligue o primeiro interruptor (A) e mantenha-o ligado por algum tempo.
+
+6 - Após isso, desligue o interruptor A e ligue o terceiro interruptor (C).
+
+7 - Visite uma das outras duas salas das lâmpadas.
+
+8 - Na segunda visita você terá as seguintes situações:
+    - Se a lâmpada estiver acesa, isso significa que o interruptor C controla essa lâmpada.
+
+    - Se a lâmpada estiver apagada e quente, isso significa que o interruptor A controla essa lâmpada.
+
+Sendo assim, será possível identificar qual lâmpada é controlada por cada um dos interruptores

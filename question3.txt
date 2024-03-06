@@ -1,0 +1,23 @@
+a) 1, 3, 5, 7, ___
+
+R = A lógica é adicionar 2 a cada termo, o próximo será 7+2 = 9.
+
+b) 2, 4, 8, 16, 32, 64, ____
+
+R = A lógica é dobrar o número a cada termo, o próximo será 64 * 2 = 128.
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+
+R = A lógica é que cada termo é o quadrado dos números naturais, o próximo será 7 ^ 2 = 49.
+
+d) 4, 16, 36, 64, ____
+
+R = A lógica é que cada termo é o quadrado dos números pares, o próximo será 8 ^ 2 = 64.
+
+e) 1, 1, 2, 3, 5, 8, ____
+
+R = A lógica é que cada termo faz parte da sequência de Fibonacci, calculada na questão anterior onde cada termo é a soma dos dois anteriores, o próximo será 8 + 5 = 13.
+
+f) 2,10, 12, 16, 17, 18, 19, ____
+
+R = A lógica é que cada termo começa com a letra D no nome, o próximo será 200 (Duzentos).
